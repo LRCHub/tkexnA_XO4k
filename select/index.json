@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "体",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-27T15:20:23.228458Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "体",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_体_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "体",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/02_体_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "体",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/03_体_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "03_撮影初日_初・体・験（ハート）",
+      "artist": "えろのすこーぷ",
+      "has_synced": true,
+      "path": "select/04_03_撮影初日_初・体・験(ハート)_えろのすこーぷ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "体",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_体_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "体",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_体_東京事変.txt"
+    }
+  ]
+}
